@@ -1,3 +1,3 @@
-from api import InjectsApi
+from .api import InjectsApi
 
 __all__ = ["InjectsApi"]
