@@ -4,3 +4,6 @@
 venv/
 config.py
 .mypy_cache
+build/
+dist/
+injectslib.egg-info/

@@ -7,6 +7,12 @@ Compatible with python2 and python3.
 
 **Contact email**: msm@cert.pl
 
+## Install
+
+```bash
+$ pip install injectslib
+```
+
 ## Example
 
 ```python
