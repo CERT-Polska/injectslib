@@ -7,6 +7,5 @@ test_style:
 image: python:3.6
 test_types:
   script:
-  - cp src/config.example.py src/config.py
   - pip3 install mypy
   - mypy src
