@@ -1,5 +1,5 @@
 import sys
-from api import InjectsApi  # type: ignore
+from .api import InjectsApi
 
 
 def main():
